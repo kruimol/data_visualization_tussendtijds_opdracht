@@ -1,4 +1,4 @@
-# data_visualization_tussendtijds_opdracht
+# data visualization tussendtijds opdracht
 
 Datasets:
 - [Dataset verkeersongevallen](https://statbel.fgov.be/nl/open-data/geolocalisatie-van-de-verkeersongevallen-2017-2024)
